@@ -21,7 +21,7 @@ description: >-
 * **CMPSC 190J: Teaching Computer Science** website: <http://ucsb-teaching-cs.github.io/>
 * **Instructor**: Yekaterina Kharitonova (Prof. K)
 
-* **Lecture**: F 9:30-10:45am, ATTENDANCE REQUIRED.
+* **Lecture**: F 11:00-12:15am, ATTENDANCE REQUIRED.
 * **Discussion Section**. 5 hours of discussion section, negotiated with your supervising instructor, in service to the course to which you are assigned. The actual time might not correspond to the one listed on GOLD. The time will be some combination of service during your course's discussion sections, and/or service during open labs hours. 
 
 
@@ -83,7 +83,6 @@ They will be of two types:
    
    * Writing a bio (with photo) for your courses website.
    * Summarizing a research paper on CS Education
-   * Presenting a lightning talk on a topic in CS Education
    * Reading short articles (e.g., from Teaching Tips, or other sources) and writing a short reaction paper.
    * Creating a resource for the specific course.
 
