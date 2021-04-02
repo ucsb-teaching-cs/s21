@@ -1,7 +1,7 @@
 ---
-title: 
+title: TBA
 ---
 
-Lec 08
-: [Teaching Practices Game](https://teaching-practices-game.herokuapp.com)
+Lec 0X
+: [TBA](#)
 

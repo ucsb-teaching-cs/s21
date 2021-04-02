@@ -1,10 +1,10 @@
 ---
 layout: home
-title: CS190J (W21)
+title: CS190J (S21)
 nav_exclude: true
 seo:
   type: Course
-  name: UCSB CS190J W21
+  name: UCSB CS190J S21
 ---
 
 # {{ site.tagline }}
@@ -25,4 +25,4 @@ You can read more about this course on the [UCSB CMPSC 190J: Teaching Computer S
 
 To learn more about this quarter's course, take a look at our [course syllabus](about.md) and the weekly [schedule](schedule.md) page.
 
-The link to this webpage is <https://ucsb-teaching-cs.github.io/w21/>
+The link to this webpage is <https://ucsb-teaching-cs.github.io/s21/>

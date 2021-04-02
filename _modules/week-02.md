@@ -1,7 +1,7 @@
 ---
-title: Scenes from Tutoring
+title: TBA
 ---
 
 Lec 02
-: [Tutoring Tips and Demo](#)
+: [TBA](#)
 

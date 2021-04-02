@@ -1,7 +1,7 @@
 ---
-title: Academic Integrity
+title: TBA
 ---
 
-Lec 04
-: [Academic Integrity](../resources/integrity)
+Lec 0X
+: [TBA](#)
 

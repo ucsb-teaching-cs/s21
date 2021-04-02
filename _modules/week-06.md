@@ -1,7 +1,7 @@
 ---
-title: Discussing the ULA paper / programs
+title: TBA
 ---
 
-Lec 06
-: [ULAs in CS](../resources/ula_paper)
+Lec 0X
+: [TBA](#)
 

@@ -1,7 +1,7 @@
 ---
-title: Assisting Students with Debugging
+title: TBA
 ---
 
-Lec 07
-: [](#)
+Lec 0X
+: [TBA](#)
 

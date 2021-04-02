@@ -1,7 +1,7 @@
 ---
-title: 
+title: TBA
 ---
 
-Lec 09
-: [Teaching Demos (Part 1)](#)
+Lec 0X
+: [TBA](#)
 

@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS190J (W21) at UCSB
+title: CS190J (S21) at UCSB
 tagline: Teaching Computer Science at UCSB
 description: UCSB CMPSC 190J - Teaching Computer Science
 author: YKK
-baseurl: '/w21' # the subpath of your site, e.g. /blog
+baseurl: '/s21' # the subpath of your site, e.g. /blog
 url: 'https://ucsb-teaching-cs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -35,7 +35,7 @@ aux_links:
   Gradescope:
     - 'http://gradescope.com'
   GitHub:
-    - 'https://github.com/ucsb-teaching-cs/w21'
+    - 'https://github.com/ucsb-teaching-cs/s21'
 footer_content:
 
 # Collections for website data
