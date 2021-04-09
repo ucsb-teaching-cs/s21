@@ -1,7 +1,7 @@
 ---
-title: TBA
+title: Practicing one-on-one explanations
 ---
 
-Lec 0X
-: [TBA](#)
+Lec 03
+: [Example Tutoring Problems](#)
 
