@@ -1,5 +1,5 @@
 ---
-name: Jared Flores (Prof. K)
+name: Jared Flores
 role: Lead ULA
 pronouns: He/Him
 photo: jcf-avatar.png
