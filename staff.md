@@ -2,6 +2,7 @@
 layout: page
 title: Who We Are
 description: A listing of all the course members.
+nav_order: 3
 ---
 
 # Staff

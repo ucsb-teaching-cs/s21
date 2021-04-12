@@ -1,3 +1,6 @@
+### More about the config for this template can be found here:
+### https://pmarsceill.github.io/just-the-docs/docs/configuration/
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole site, values
@@ -13,13 +16,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS190J (S21) at UCSB
+title: CS190J (S21)
 tagline: Teaching Computer Science at UCSB
 description: UCSB CMPSC 190J - Teaching Computer Science
 author: YKK
 baseurl: '/s21' # the subpath of your site, e.g. /blog
 url: 'https://ucsb-teaching-cs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+# the “page last modified” data will only display if a page has a key called last_modified_date, formatted in some readable date format
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/ucsb-teaching-cs/s21" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
@@ -36,6 +52,7 @@ aux_links:
     - 'http://gradescope.com'
   GitHub:
     - 'https://github.com/ucsb-teaching-cs/s21'
+aux_links_new_tab: true
 footer_content:
 
 # Collections for website data
