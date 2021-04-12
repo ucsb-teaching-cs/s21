@@ -28,7 +28,7 @@ In preparation for the 1-on-1 observations, we will practice assisting students 
 * It's important not to trivialize students' problems.
 * Ask clarifying questions at the beginning, before trying to tackle a problem head-on.
     * Let students describe what their code is doing / what the problem is; don't try to just look at the code first and figure it out on your own.
-    * Ask students what they are trying **to do** (not just what's the lab/hw question they are on but what semantic step they are working on)
+    * Ask students what they are trying **to do** (not just what's the lab/hw question they are on but what _semantic step_ they are working on: e.g., checking if an item already exists in the list before adding it)
     * If a student is running into an error, show them how to interpret the error and reason about the potential causes of the error; ask them what part of their code might be causing an error and ask how/what they can change and why.
     * Ask students to explain what they've already tried.
 * Lead the student towards the issue rather than telling them where the issue is in their code.
@@ -45,6 +45,8 @@ Experienced tutors from multiple courses are invited to observe their peers tuto
 
 In class we'll have mini mock tutoring sessions. At the end of each session, all participants write short reflections and the experienced tutors provide helpful feedback.
 
+Each peer-assistance session will be recorded separately, so that the student who is in the role of a tutor can review it and provide an additional reflection after the session. 
+
 ## Getting set up (5 minutes)
 
 * Introductions
@@ -52,7 +54,7 @@ In class we'll have mini mock tutoring sessions. At the end of each session, all
 * Form pairs: each 190J student should be in the role of a tutor and a student once
 * One experienced tutor leads one or more pairs in the breakout rooms
 
-## About the activity (5 to 10 minutes per student, 40 minutes total)
+## About the activity (5 to 10 minutes per student, 45 minutes total)
 
 * One person assumes the role of a *"student"*, another that of a *"tutor"*. The others including the lead tutors are observers.
 * The *"student"* should start by picking one of the problems in the git-repo (choose an example problem in one of the directories). The **student** may choose a problem that is for the course that "their tutor" is ULAing this quarter.
@@ -61,7 +63,7 @@ In class we'll have mini mock tutoring sessions. At the end of each session, all
 * Complete the reflections and feedback described below. 
 * Switch roles and repeat.
 
-### Reflections and feedback (3-5 minutes per student, 20 minutes total)
+### Reflections and feedback (3-5 minutes per student, 15 minutes total)
 
 * After each tutoring session, all the observers (including the lead tutor) should fill this form about the interaction [peer-review observation form](http://bit.ly/Peer-observation-form).
 
@@ -71,6 +73,16 @@ In class we'll have mini mock tutoring sessions. At the end of each session, all
 
 If time permits, the lead tutors will discuss and summarize the main take-aways from their observations and feedback.
 
+### Reflection after watching the recording
+
+It is an incredibly useful (albeit sometimes uncomfortable) exercise to watch a recording of yourself. 
+Watching yourself tutor someone can help you learn a lot about your style and grow even more.
+
+After the session, we will share a recording of your assistance.
+You are asked to watch the video and then reflect on it again, using the provided Teaching Guidelines (above) to highlight what you did well.
+
+You will submit your reflection using the **peer-review observatio form** and writing "Self" for the "190J tutor's name". 
+In the "Any other comments" section add if there is anything that you would do differently after watching your interaction.
 
 ---------
 
