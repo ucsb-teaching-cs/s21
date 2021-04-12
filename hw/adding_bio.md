@@ -63,9 +63,8 @@ We will use this course's repository in order for you to practice the open-sourc
 In the open-source model, there is one or more owner and maintainer of the project repository.
 Typically, you as a contributor do not have a direct access to making changes to the repo -- the way you contribute is by submitting your suggestions/modifications via **Pull Requests**.
 
-In this example, we will be referring to this course's website as the `PROJECT_REPO`. 
-
-Use the **GitHub** link in the upper-right corner of this page to navigate to this website's repo.
+In this example, we will be referring to this course's website as the `PROJECT_REPO`: [{{ site.gh_edit_repository }}]({{ site.gh_edit_repository }}). 
+(You can also use the **GitHub** link in the upper-right corner of this page to navigate to this website's repo.)
 
 ### Fork the repo
 
@@ -107,20 +106,20 @@ Now, navigate to the `_staffers` folder in the GitHub repo.
 * Copy the following template and update the fields accordingly.
 	* Leave the opening and closing dashes intact.
 	* Update your `name`
-	* Leave the `role` as the `Undergraduate Learning Assistant`
 	* Update the `pronouns` to only include yours
+	* Leave the `role` as the `Undergraduate Learning Assistant`
 	* Use the base filename (not the path) for the `photo` that you uploaded
 	* Add your bio - please, **do not** list your contact information as part of your bio.
 
 ```
 ---
 name: Your Name
-role: Undergraduate Learning Assistant
 pronouns: She/her Him/his They/their
+role: Undergraduate Learning Assistant
 photo: image.png
 ---
 
-Write your bio and a welcome message (300 to 400 words).
+Write your bio and a welcome message (300 to 400 words). Include "I'm a ULA for X", where X is your course.
 ```
 
 * Remember to "Commit changes".
