@@ -3,7 +3,7 @@ layout: default
 title: A0 - Adding a Bio
 parent: Assignments
 nav_order: 1
-last_modified_date: {{ site.time }}
+last_modified_date: 2021-04-13 01:00
 ---
 
 # Assignment 0
@@ -20,7 +20,7 @@ last_modified_date: {{ site.time }}
 
 In this exercise, we'll practice working with git/GitHub to add and modify files.
 
-In this assignment we ask you submit a recent photo and bio to share with our students. The idea is to help them get to know you better.
+In this assignment we ask you submit a recent photo and bio to share with the students in the class for which you are a ULA. The idea is to help them get to know you better.
 
 ---
 
@@ -88,9 +88,10 @@ Then, when you have your picture and bio uploaded, you will need to **submit a P
 
 In this assignment we ask you submit a recent photo and bio to share with our students. The idea is to help them get to know you better.
 
-* In the browser, open up the `PROJECT_REPO_FORK`.
+#### Step 1: Navigate to your fork
+ In the browser, open up the `PROJECT_REPO_FORK`. (_Note that you need to open **your fork**_, not the original course repo.)
 
-
+#### Step 2: Upload your picture
 * Navigate to the `assets/images` folder and select "Upload files" from the "Add file" dropdown. 
 	* Use an image that shows your face and helps students recognize you.
 	* Use a **square** PNG image (300x300 px max resolution).
@@ -99,6 +100,7 @@ In this assignment we ask you submit a recent photo and bio to share with our st
 * After uploading your image, remember to "Commit changes".
 	* Save the filename for the image that you uploaded.
 
+#### Step 3: Upload your bio
 Now, navigate to the `_staffers` folder in the GitHub repo. 
 
 * Select "Create new file" from the "Add file" dropdown. 
@@ -116,10 +118,11 @@ Now, navigate to the `_staffers` folder in the GitHub repo.
 name: Your Name
 pronouns: She/her Him/his They/their
 role: Undergraduate Learning Assistant
+ula_for: CS X
 photo: image.png
 ---
 
-Write your bio and a welcome message (300 to 400 words). Include "I'm a ULA for X", where X is your course.
+Write your bio and a welcome message for the students in your course (300 to 400 words). 
 ```
 
 * Remember to "Commit changes".

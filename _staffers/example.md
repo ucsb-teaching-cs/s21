@@ -1,6 +1,7 @@
 ---
 name: Your Name
 role: Undergraduate Learning Assistant
+ula_for: CS X
 pronouns: She/her Him/his They/their
 photo: 404.png
 ---

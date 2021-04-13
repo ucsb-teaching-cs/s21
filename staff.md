@@ -20,7 +20,6 @@ The information below is stored in the `_staffers` directory and rendered accord
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 ## Teaching Assistants
-
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
@@ -30,8 +29,16 @@ The information below is stored in the `_staffers` directory and rendered accord
 {% assign num_learning_assistants = learning_assistants | size %}
 {% if num_learning_assistants != 0 %}
 ## Undergraduate Learning Assistants
-
 {% for staffer in learning_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
+{% assign leads = site.staffers | where: 'role', 'Lead ULA' %}
+{% assign num_leads = leads | size %}
+{% if num_leads != 0 %}
+## Lead ULAs
+{% for staffer in leads %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
