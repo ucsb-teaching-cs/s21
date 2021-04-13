@@ -101,7 +101,7 @@ In this assignment we ask you submit a recent photo and bio to share with our st
 	* Save the filename for the image that you uploaded.
 
 #### Step 3: Upload your bio
-Now, navigate to the `_staffers` folder in the GitHub repo. 
+Now, navigate to the `_staffers` folder in the `PROJECT_REPO_FORK` GitHub repo. 
 
 * Select "Create new file" from the "Add file" dropdown. 
 * Name your file `Your_NETID.md` making sure to substitute _your NETID_ before the `.md` part.

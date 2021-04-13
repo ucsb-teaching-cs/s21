@@ -2,7 +2,7 @@
 layout: default
 title: Buggy Code Peer Review
 nav_exclude: true
-last_modified_date: {{ site.time }}
+last_modified_date: 2021-04-13 15:38
 ---
 
 
@@ -29,8 +29,9 @@ In preparation for the 1-on-1 observations, we will practice assisting students 
 * Ask clarifying questions at the beginning, before trying to tackle a problem head-on.
     * Let students describe what their code is doing / what the problem is; don't try to just look at the code first and figure it out on your own.
     * Ask students what they are trying **to do** (not just what's the lab/hw question they are on but what _semantic step_ they are working on: e.g., checking if an item already exists in the list before adding it)
-    * If a student is running into an error, show them how to interpret the error and reason about the potential causes of the error; ask them what part of their code might be causing an error and ask how/what they can change and why.
+    * If a student is running into an error, show them how to interpret the error and reason about the potential causes of the error; ask them what part of their code might be causing an error and ask how/what they can change and why. Perhaps, pull up the documentation if appropriate or ask them if they have seen this error before, what caused it, and how they solved it (has it been mentioned in the book?); if appropriate, search Stackoverflow for common errors.
     * Ask students to explain what they've already tried.
+* Tell them to print something specific in their code to help them with debugging and confirm their assumptions.
 * Lead the student towards the issue rather than telling them where the issue is in their code.
 * Encourage students to experiment with their code themselves rather than giving them direct answers.
 * Refrain from telling students whether their code is right and have them walk through an example or run their code themselves after making modifications.
@@ -81,7 +82,7 @@ Watching yourself tutor someone can help you learn a lot about your style and gr
 After the session, we will share a recording of your assistance.
 You are asked to watch the video and then reflect on it again, using the provided Teaching Guidelines (above) to highlight what you did well.
 
-You will submit your reflection using the **peer-review observatio form** and writing "Self" for the "190J tutor's name". 
+You will submit your reflection using the **peer-review observation form** and writing "Self" for the "190J tutor's name". 
 In the "Any other comments" section add if there is anything that you would do differently after watching your interaction.
 
 ---------
