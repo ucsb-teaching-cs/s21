@@ -3,7 +3,7 @@ layout: default
 title: A0 - Adding a Bio
 parent: Assignments
 nav_order: 1
-last_modified_date: 2021-04-13 01:00
+last_modified_date: 2021-04-14 01:50
 ---
 
 # Assignment 0
@@ -87,6 +87,7 @@ Then, when you have your picture and bio uploaded, you will need to **submit a P
 ### Add your files using the GitHub interface
 
 In this assignment we ask you submit a recent photo and bio to share with our students. The idea is to help them get to know you better.
+If you really don't want your photo on the website, use the image that's listed in the `_example.md` file.
 
 #### Step 1: Navigate to your fork
  In the browser, open up the `PROJECT_REPO_FORK`. (_Note that you need to open **your fork**_, not the original course repo.)
@@ -104,7 +105,7 @@ In this assignment we ask you submit a recent photo and bio to share with our st
 Now, navigate to the `_staffers` folder in the `PROJECT_REPO_FORK` GitHub repo. 
 
 * Select "Create new file" from the "Add file" dropdown. 
-* Name your file `NETID.md` making sure to substitute _NETID_ before the `.md` part (`NETID` is the part that comes before your `@ucsb.edu`).
+* Name your file `NETID.md` making sure to substitute _your_ `NETID` (all **lowercase**) before the `.md` part (`NETID` is the part that comes before your `@ucsb.edu`).
 * Copy the following template and update the fields accordingly.
 	* Leave the opening and closing dashes intact.
 	* Update your `name`
@@ -163,7 +164,8 @@ Woohooo! We are done with the setup and are ready to start working with the file
 
 ---
 
-At this point, check the instructions and requirements above for uploading your picture and the bio. 
+Follow the instructions and requirements above for uploading your picture and the bio. 
+
 Since you are working on the command line you'll need to add
 * your picture to the `assets/images` folder
 * your bio to the `_staffers` folder
@@ -174,7 +176,7 @@ Since you are working on the command line you'll need to add
 * Verify that your changes are detected by running `git status`. It tells you which files you have modified. 
 * If the file that you created is "red" in the "Untracked files" category, make git aware that it needs to keep track of it: Add the changes by running `git add`, followed by the path/name of your files.
 * See the difference by running `git status` and make sure that only the files you intended to change are “green”.
-* Commit your changes `git commit -m "Added a profile picture and the bio."`
+* Commit your changes by running this on the command line: `git commit -m "Added a profile picture and the bio."`
 * Make your change show up on your fork's github repo website by pushing this commit to the repo using `git push` (note: not including `origin <branchname>` after `git push` defaults to `origin master`).
 
 **This commit and the correspending files now live in _your fork_ and not in the main `PROJECT_REPO`.**
