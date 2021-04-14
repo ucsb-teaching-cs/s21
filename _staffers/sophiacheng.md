@@ -10,7 +10,7 @@ Hello! My name is Sophia Cheng and I’m currently a second year newly transferr
 
 I think that discrete math is an important building block for higher level math and computer science. It is a way to challenge traditional thinking and creates a new environment to test theories and algorithms. As a ULA, I hope to help make learning enjoyable but challenging. It is good to learn both individually as well as with others. Whether it is working with friends or asking questions to the ULAs, I hope that office hours and section will provide this opportunity.
 
-I really enjoy art, both consuming it and producing it, and am considering a double major in art or art history. Come talk to me about questions or suggestions for art classes at UCSB! During my free time I try to draw and paint, but it's mostly just been drawing in the margins of my notes and homework. I’ve taught art in the past but never CS, so I’m interested to see how different or similar the two are. 
+I really enjoy art, both consuming it and producing it, and am considering a double major in art or art history. Come talk to me about questions or suggestions for art classes at UCSB! During my free time I try to draw and paint, but it's mostly just been drawing in the margins of my notes and homework. I’ve taught art in the past but never Computer Science, so I’m interested to see how different or similar the two are. 
 
 
  
