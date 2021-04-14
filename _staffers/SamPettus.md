@@ -1,7 +1,7 @@
 ---
 name: Sam Pettus
 pronouns: Him/his
-role: Undergraduate Learning Assistant for CS154
+role: Undergraduate Learning Assistant
 ula_for: CS 154
 photo: CS154-S21-Sam-P.jpeg
 ---

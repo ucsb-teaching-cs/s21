@@ -104,13 +104,13 @@ In this assignment we ask you submit a recent photo and bio to share with our st
 Now, navigate to the `_staffers` folder in the `PROJECT_REPO_FORK` GitHub repo. 
 
 * Select "Create new file" from the "Add file" dropdown. 
-* Name your file `Your_NETID.md` making sure to substitute _your NETID_ before the `.md` part.
+* Name your file `NETID.md` making sure to substitute _NETID_ before the `.md` part (`NETID` is the part that comes before your `@ucsb.edu`).
 * Copy the following template and update the fields accordingly.
 	* Leave the opening and closing dashes intact.
 	* Update your `name`
 	* Update the `pronouns` to only include yours
-	* Leave the `role` as the `Undergraduate Learning Assistant`
-	* Use the base filename (not the path) for the `photo` that you uploaded
+	* Leave the `role` as the `Undergraduate Learning Assistant` (_don't change it or add anything to it_)
+	* Use the base filename (not the path) for the `photo` that you uploaded (_make sure that you added it to the correct folder_)
 	* Add your bio - please, **do not** list your contact information as part of your bio.
 
 ```
