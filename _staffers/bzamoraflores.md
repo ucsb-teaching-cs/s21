@@ -17,4 +17,4 @@ Once I finish my undergrad career I want to work for a big company for a couple 
 During my summers I have taught web development to high school students from underrepresented communities in LA.
 While I was doing that I realized that sharing my knowledge with others is something that I really enjoy, which is one of the reasons why I decided to apply to be a ULA.
 I also noticed that many students feel intimidated by ULA’s and TA’s just because of their title, but I personally think that it should be the complete opposite. We are also human beings and we know that some labs could be tough but we are here to help you guys succeed.
-As a ULA I would like to help make more students comfortable with attending office hours, to reach out for help or just to talk with us about our experiences! 
+As a ULA I would like to help making students feel more comfortable with attending office hours, to reach out for help or just to talk with us about anything! 
