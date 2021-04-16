@@ -2,7 +2,7 @@
 name: Aaron Huang
 pronouns: Him/his 
 role: Undergraduate Learning Assistant
-ula_for: CS X
+ula_for: CS 154
 photo: CS154-S21-Aaron-H
 ---
 
