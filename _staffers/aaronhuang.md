@@ -3,7 +3,7 @@ name: Aaron Huang
 pronouns: Him/his 
 role: Undergraduate Learning Assistant
 ula_for: CS 154
-photo: CS154-S21-Aaron-H
+photo: CS154-S21-Aaron-H.png
 ---
 
 Hello, nice to meet you! My name is Aaron and I am a third year computer science major. This is my first time being an Undergraduate Learning Assistant (ULA), so I am both nervous and excited to be working with everyone in CS154. 
