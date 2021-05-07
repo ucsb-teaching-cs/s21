@@ -14,4 +14,4 @@ I actually took CS 154 last quarter with Professor Matni, so I wanted to become 
 
 In my free time I enjoy playing indie games and roguelikes. My interest in these game genres started because I grew up with an old laptop that couldn’t run graphically intensive games very well. Eventually, I came across a game called Cave Story, which was an indie Metroidvania platformer game that was actually able to run smoothly on my laptop. The game grew on me and my love for the indie game genre took off from there, causing me to pick up CupHead, DeadCells, Hades and many more. 
 
-I look forward to working with everyone! Feel free to reach out to me at aaronhuang@ucsb.edu or drop by my office hours  T, TR 4:00 - 5:00 pm if you have any questions or simply want to chat. 
+I look forward to working with everyone! Feel free to drop by my office hours T, TR 4:00 - 5:00 pm if you have any questions or simply want to chat. 

@@ -6,9 +6,6 @@ ula_for: CS 9
 photo: CS9-S21-Priyanka-B.png
 ---
 
-Write your bio and a welcome message for the students in your course (300 to 400 words). 
-
-
 Hello and welcome to CS9! 
 
 My name is Priyanka and I am a third year Computer Science and Data Science & Statistics major. I am really excited to work with all of you this quarter as this is my first time as an undergraduate learning assistant! I have tutored in high school, and even in between, I always enjoyed helping others break down problems and help them figure it out since we all walk away from the experience learning something new :) At school, you'll typically see me with my hoard of whiteboard markers, writing code or pseudocode or solving problems on the whiteboards around. 
