@@ -1,7 +1,7 @@
 ---
-title: TBA
+title: Teaching Demos
 ---
 
-Lec 0X
+Lec 08
 : [TBA](#)
 
