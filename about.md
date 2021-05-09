@@ -19,7 +19,7 @@ nav_order: 1
 
 ## About this course
 
-* **CMPSC 190J: Teaching Computer Science** website: <http://ucsb-teaching-cs.github.io/>
+* **CMPSC 190J: Teaching Computer Science** website: [{{site.url}}{{site.baseurl}}]({{site.url}}{{site.baseurl}})
 * **Instructor**: Yekaterina Kharitonova (Prof. K)
 
 * **Lecture**: F 11:00-12:15am, ATTENDANCE REQUIRED.
