@@ -51,7 +51,7 @@ If you created any resources for your course, you could use that topic as an exa
 Once you have identified the topic for your demo, think about what should the students need to be able to do to demonstrate their learning. Use the [Action Verbs](https://www.celt.iastate.edu/teaching/preparing-to-teach/tips-on-writing-course-goalslearning-outcomes-and-measureable-learning-objectives/) to write down your **learning goals** for the demo. (Side note: Learning goals are interchangeably called **learning outcomes** or **learning objectives**. Read more about the [Learning Outcomes and Backward Design](https://oia.arizona.edu/content/290)). Take a look at [some examples](https://examples.yourdictionary.com/well-written-examples-of-learning-objectives.html) to get a sense of the well-written learning objectives.
 
 ### Prepare the demo and the assessment
-Now that you have identified the topic and the learning objectives, prepare your demo that would provide students with the information that they need in order to understand the topic. Feel free to use slides, interactive walk-throughs, write or draw in order to facilitate the learning processi (see "Presentation Suggestions" below).
+Now that you have identified the topic and the learning objectives, prepare your demo that would provide students with the information that they need in order to understand the topic. Feel free to use slides, interactive walk-throughs, write or draw in order to facilitate the learning processi (see "Presentation Guidelines" below).
 
 **As much as possible, design your explanation so that someone with a limited background of CS/DS can still understand your demo: for example, limit the jargon and explain related terms whenever appropriate.**
 
@@ -61,7 +61,7 @@ What would measurably demonstrate that the audience understood the topic?
 After the demo, the audience will submit their observations and feedback via the provided link.
 
 
-## Presentation Suggestions
+## Presentation Guidelines
 
 Ensure that you can clearly articulate the main goal of your presentation: what do you want your audience to take away from it?
 
