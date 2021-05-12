@@ -1,7 +1,7 @@
 ---
-title: TBA
+title: ULAs in CS
 ---
 
-Lec 0X
-: [TBA](#)
-
+Lec 10
+: [Discussion of the paper about ULAs](#)
+  : **Due**{: .label .label-red } [Paper Analysis](../hw/ula_paper)
