@@ -18,13 +18,13 @@ last_modified_date: 2021-05-07 07:50
 
 ## Assignment 
 
-ULAs often conduct review sessions where they go over various course topics, explain how to solve certain types of problems, and demonstrate how to approach/deconstruct a specific concept. At the end of this assignment, you will have seen the differenct types of concepts / questions your fellow 190J peers have seen this quarter, and the strategies they use to address and explain them.
+ULAs often conduct review sessions where they go over various course topics, explain how to solve certain types of problems, and demonstrate how to approach/deconstruct a specific concept. At the end of this assignment, you will have seen the different types of concepts / questions your fellow 190J peers have seen this quarter, and the strategies they use to address and explain them.
 
 Additionally, this assignment is meant to help you with your application for a paid ULA position, since you might need to submit a video of yourself teaching a concept.
 
 Last but not least, this assignment's goal is to help you identify creative strategies in which you can explain course concepts, and ways of assessing whether your audience ("your student(s)") understood your explanation.
 
-For this assignment, we ask that you prepare a 5-7 minute teaching demo explaining a topic/concept or a walk-through of an example from the course your are assigned to as a ULA. 
+For this assignment, we ask that you prepare a 5-7 minute teaching demo explaining a topic/concept or a walk-through of an example from the course you are assigned to as a ULA. 
 After your presentation, you need to test how well your audience/"students" are able to apply what you've explained by asking them follow-up questions, or giving them a poll, or a clicker-style/quiz question(s), or asking them to complete an activity.
 We encourage you to be creative and think of engaging, fun, and/or practical examples. 
 
@@ -40,7 +40,7 @@ Additionally, as part of this assignment, you will
 * Organize and consolidate information
 * Design slides / materials / notes / assessment
 * Present your demo to the 190J students
-* Profide feedback to others
+* Provide feedback to others
 * Reflect on your experience
 
 ### Select your topic/concept and determine the learning goal(s)
@@ -51,7 +51,7 @@ If you created any resources for your course, you could use that topic as an exa
 Once you have identified the topic for your demo, think about what should the students need to be able to do to demonstrate their learning. Use the [Action Verbs](https://www.celt.iastate.edu/teaching/preparing-to-teach/tips-on-writing-course-goalslearning-outcomes-and-measureable-learning-objectives/) to write down your **learning goals** for the demo. (Side note: Learning goals are interchangeably called **learning outcomes** or **learning objectives**. Read more about the [Learning Outcomes and Backward Design](https://oia.arizona.edu/content/290)). Take a look at [some examples](https://examples.yourdictionary.com/well-written-examples-of-learning-objectives.html) to get a sense of the well-written learning objectives.
 
 ### Prepare the demo and the assessment
-Now that you have identified the topic and the learning objectives, prepare your demo that would provide students with the information that they need in order to understand the topic. Feel free to use slides, interactive walk-throughs, write or draw in order to facilitate the learning processi (see "Presentation Guidelines" below).
+Now that you have identified the topic and the learning objectives, prepare your demo that would provide students with the information that they need in order to understand the topic. Feel free to use slides, interactive walk-throughs, write or draw in order to facilitate the learning process (see "Presentation Guidelines" below).
 
 **As much as possible, design your explanation so that someone with a limited background of CS/DS can still understand your demo: for example, limit the jargon and explain related terms whenever appropriate.**
 
@@ -149,7 +149,7 @@ Be creative but also be respectful!
 
 * Upload your materials to Gauchospace to the "Teaching Demo" assignment.
 
-After your presesntation, you will receive a link with the recording and a form through which you can submit your reflection.
+After your presentation, you will receive a link with the recording and a form through which you can submit your reflection.
 
 If, for some reason, you would be unable to lead your demo live during our lecture, then send me an email **before Friday**, with the subject "CS 190J Teaching Demo" and the link to your pre-recorded video. In that email, let me know whether you'd be able to lead the assessment activity during the lecture; otherwise, the materials and the instructions for how to lead it should be uploaded to the corresponding (also **before Friday** during which you are supposed to present, i.e., aim to upload it on Thursday night the latest).
 
