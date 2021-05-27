@@ -31,6 +31,6 @@ The final report should be a summary of your contributions and learning in CS 19
 # Submission instructions
 
 * Save your responses as ... (TBD)
-* Upload your file to Gauchospace to the "Final Report" assignment **before Friday 9pm** (Pacific time).
+* Upload your file to Gauchospace to the "Final Report" assignment **before Friday June 11, 9pm** (Pacific time).
 
 
